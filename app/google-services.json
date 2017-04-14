@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "958207267072",
+    "firebase_url": "https://fbauthdemo-f64be.firebaseio.com",
+    "project_id": "fbauthdemo-f64be",
+    "storage_bucket": "fbauthdemo-f64be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958207267072:android:71abd53812ba5d08",
+        "android_client_info": {
+          "package_name": "edu.montclair.mobilecomputing.m_alrajab.week11_firebase_chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958207267072-5446j12rj0f4iljinli8naknvuk9vr44.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.montclair.mobilecomputing.m_alrajab.week11_firebase_chatapp",
+            "certificate_hash": "54893756df21b7594380a173fd1e2a62c78e9fef"
+          }
+        },
+        {
+          "client_id": "958207267072-7acmh0fb3ibcq3ta5jnlcmfunbfi1mo4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA31yntM9mzjrQfWzQ_u8dcNrnEZ89D--c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958207267072-7acmh0fb3ibcq3ta5jnlcmfunbfi1mo4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
