@@ -45,6 +45,10 @@ public class ChatMessageItem {
         return timeStamp;
     }
 
+    public void setTimeStamp(String timeStamp) {
+        this.timeStamp = timeStamp;
+    }
+
     public String getPhotoUrl() {
         return uri;
     }
